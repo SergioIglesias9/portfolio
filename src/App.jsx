@@ -191,7 +191,7 @@ export default function Portfolio() {
 
           <div className="flex justify-center gap-6 flex-wrap">
             <a
-              href="href=ssergio.iglesias2009@gmail.com"
+              href="href=mailto:ssergio.iglesias2009@gmail.com"
               className="px-6 py-3 bg-white text-black rounded-2xl font-semibold hover:scale-105 transition"
             >
               Enviar correo
